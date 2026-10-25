@@ -1,5 +1,7 @@
 # GMSOFT Limited 👋
 
+**Business Central apps:** https://gmsoftdynamics.com/ | **All apps at a glance:** https://gmsoftdynamics.com/apps/compare/ | **Blog:** https://insidebusinesscentral.com/
+
 We build **free, open-source tools for Microsoft Dynamics 365 Business Central**.
 
 By **Grigorios Mavrogeorgis** — Director & Founder of [GMSOFT Limited](https://gmsoft.co.uk).
