@@ -24,5 +24,4 @@ Deep-dives on the theory **and** the AL code behind each tool: **[Inside Busines
 
 ## 🔗 Connect
 
-- 🌐 [gmsoft.co.uk](https://gmsoft.co.uk)
 - 📝 [insidebusinesscentral.com](https://insidebusinesscentral.com)
