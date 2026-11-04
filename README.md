@@ -1,11 +1,8 @@
-# GMSOFT Limited 👋
+# Grigorios Mavrogeorgis 👋
 
-**Business Central apps:** https://gmsoftdynamics.com/ | **All apps at a glance:** https://gmsoftdynamics.com/apps/compare/ | **Blog:** https://insidebusinesscentral.com/
+I build **free, open-source tools for Microsoft Dynamics 365 Business Central**, mostly for manufacturing and supply chain.
 
-We build **free, open-source tools for Microsoft Dynamics 365 Business Central**.
-
-By **Grigorios Mavrogeorgis** — Director & Founder of [GMSOFT Limited](https://gmsoft.co.uk).
-Microsoft Dynamics 365 Business Central Community Super User (Season 1, 2026).
+Microsoft Dynamics 365 Business Central Community **Super User** (2026 Season 1 and Season 2). Blog: [Inside Business Central](https://insidebusinesscentral.com/)
 
 ## 🧰 Free Business Central extensions
 
